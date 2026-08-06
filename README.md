@@ -2,7 +2,7 @@
   <img src="07_Images/07_ImagesBanner.png" alt="QuickBite Business Analytics Banner" width="100%">
 </p>
 
-# 🍔 Crisis-Recovery-to-an-Online-Food-Delivery-Startup-QuickBite-Express
+# 🍔 QuickBite – End-to-End Business Analytics Project
 
 <p align="center">
 
@@ -24,6 +24,28 @@ This project demonstrates the complete Business Analyst workflow—from understa
 The solution provides stakeholders with a centralized reporting system to monitor business performance, customer behavior, restaurant operations, delivery efficiency, and customer satisfaction, enabling data-driven decision-making across the organization.
 
 ---
+
+# 📑 Table of Contents
+
+- Project Overview
+- Business Problem
+- Project Objectives
+- Solution Approach
+- Project Workflow
+- Tech Stack
+- Dataset Overview
+- Data Model
+- Dashboard Overview
+- Dashboard Preview
+- Key Features
+- Key Business Insights
+- Business Recommendations
+- Skills Demonstrated
+- Repository Structure
+- Future Improvements
+- About Me
+
+--- 
 
 # 🎯 Business Problem
 
@@ -121,7 +143,21 @@ Business Insights
         ▼
 Recommendations
 ```
+---
 
+# 📦 Project Deliverables
+
+This repository contains all the artifacts created during the Business Analytics lifecycle.
+
+| Deliverable | Description |
+|-------------|-------------|
+| 📄 Business Requirement Document (BRD) | Defines the business problem, objectives, stakeholders, scope, and business requirements. |
+| 📄 Functional Requirement Document (FRD) | Converts business requirements into functional specifications and user stories. |
+| 🗄️ SQL Database Design | Database schema creation and table structure in Microsoft SQL Server. |
+| 💻 SQL KPI Queries | SQL scripts used to calculate business metrics and KPIs. |
+| 📊 Power BI Dashboard | Interactive multi-page dashboard for executive reporting and operational analysis. |
+| 📑 Final Business Report | Summary of insights, findings, and business recommendations. |
+| 💡 Business Recommendations | Actionable recommendations derived from the analysis. |
 ---
 
 # 💻 Tech Stack
@@ -183,6 +219,47 @@ The Power BI report is organized into five interactive dashboard pages, each des
 | 🚚 Delivery Operations | Are deliveries efficient and meeting service expectations? |
 | ⭐ Customer Experience | How satisfied are customers with the service? |
 
+---
+
+# 📸 Dashboard Preview
+
+## 📊 Executive Overview
+
+<p align="center">
+<img src="07_Images/Dashboard1.png" width="95%">
+</p>
+
+---
+
+## 👥 Customer Insights
+
+<p align="center">
+<img src="07_Images/Dashboard2.png" width="95%">
+</p>
+
+---
+
+## 🍽️ Restaurant Performance
+
+<p align="center">
+<img src="07_Images/Dashboard3.png" width="95%">
+</p>
+
+---
+
+## 🚚 Delivery Operations
+
+<p align="center">
+<img src="07_Images/Dashboard4.png" width="95%">
+</p>
+
+---
+
+## ⭐ Customer Experience
+
+<p align="center">
+<img src="07_Images/Dashboard5.png" width="95%">
+</p>
 ---
 
 # ⭐ Key Features
@@ -342,7 +419,7 @@ Potential enhancements include:
 
 # 👨‍💻 About Me
 
-Hi, I'm **Mrinal Sen Gupta**, an aspiring Business Analyst passionate about solving business problems through data.
+Hi, I'm **Mrinal Sen Gupta**, an Aspiring Business Analyst with hands-on experience in SQL, Power BI, Business Requirements Documentation (BRD), Functional Requirements Documentation (FRD), DAX, and Business Intelligence.
 
 I enjoy transforming raw data into actionable insights using SQL, Power BI, and structured Business Analysis techniques.
 

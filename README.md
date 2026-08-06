@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="07_ImagesBanner.png" alt="QuickBite Business Analytics Banner" width="100%">
+</p>
+
 # 🍔 Crisis-Recovery-to-an-Online-Food-Delivery-Startup-QuickBite-Express
 
 <p align="center">

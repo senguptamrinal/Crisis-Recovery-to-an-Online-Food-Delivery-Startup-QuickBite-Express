@@ -349,5 +349,5 @@ I enjoy transforming raw data into actionable insights using SQL, Power BI, and 
 If you have feedback or would like to connect, feel free to reach out.
 
 - 💼 LinkedIn: *[MRINAL SEN GUPTA](https://www.linkedin.com/in/mrinal-sen-gupta-791606208/)*
-- 💻 GitHub: *(Add Link)*
+- 💻 GitHub: *[senguptamrinal](https://github.com/senguptamrinal)*
 

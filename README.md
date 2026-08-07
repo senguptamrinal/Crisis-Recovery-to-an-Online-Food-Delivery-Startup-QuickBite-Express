@@ -260,6 +260,7 @@ The Power BI report is organized into five interactive dashboard pages, each des
 <p align="center">
 <img src="07_Images/Dashboard5.png" width="95%">
 </p>
+
 ---
 
 # ⭐ Key Features

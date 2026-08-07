@@ -378,8 +378,8 @@ QuickBite-End-to-End-Business-Analytics-Project
 ├── 📁 04_Dataset
 ├── 📁 05_PowerBI
 ├── 📁 06_Final_Report
-├── 📁 07_Images
-└── 📄 LICENSE
+└── 📁 07_Images
+
 ```
 
 ---

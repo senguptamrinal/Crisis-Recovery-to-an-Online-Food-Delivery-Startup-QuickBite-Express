@@ -27,23 +27,24 @@ The solution provides stakeholders with a centralized reporting system to monito
 
 # 📑 Table of Contents
 
-- Project Overview
-- Business Problem
-- Project Objectives
-- Solution Approach
-- Project Workflow
-- Tech Stack
-- Dataset Overview
-- Data Model
-- Dashboard Overview
-- Dashboard Preview
-- Key Features
-- Key Business Insights
-- Business Recommendations
-- Skills Demonstrated
-- Repository Structure
-- Future Improvements
-- About Me
+- [Project Overview](#-project-overview)
+- [Business Problem](#-business-problem)
+- [Project Objectives](#-project-objectives)
+- [Solution Approach](#️-solution-approach)
+- [Project Workflow](#-project-workflow)
+- [Project Deliverables](#-project-deliverables)
+- [Tech Stack](#-tech-stack)
+- [Dataset Overview](#-dataset-overview)
+- [Data Model](#️-data-model)
+- [Dashboard Overview](#-dashboard-overview)
+- [Dashboard Preview](#-dashboard-preview)
+- [Key Features](#-key-features)
+- [Key Business Insights](#-key-business-insights)
+- [Business Recommendations](#-business-recommendations)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Repository Structure](#-repository-structure)
+- [Future Improvements](#-future-improvements)
+- [About Me](#-about-me)
 
 --- 
 
